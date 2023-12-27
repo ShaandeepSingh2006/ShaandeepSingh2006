@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shaandeep Singh
 - 👀 I’m interested in creating games,application and websites.
-- 🌱 I’m currently learning BCA(Bachlpr of Computer Application) from Amity Online University
+- 🌱 I’m currently learning C programming.
+- 📚 I'm currently doing BCA(Bachlor of Computer Applicationn) from Amity Online University.
 - 📫 How to reach me : shaandeepsingh11c@gmail.com
 
 <!---
